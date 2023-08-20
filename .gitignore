@@ -24,3 +24,7 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+Pico_VGA_Board/Pico_VGA_Board/Pico_VGA_Board-backups/
+Pico_VGA_Board/Pico_VGA_Board/out.log
+Pico_VGA_Board/Pico_VGA_Board/fp-info-cache
