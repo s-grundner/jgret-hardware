@@ -650,8 +650,8 @@
       (net 54 "unconnected-(U1-SWDIO-Pad43)") (pinfunction "SWDIO") (pintype "bidirectional") (tstamp 6778b88b-1d7a-486a-8315-0fa3f7e76878))
     (pad "43" smd rect (at 2.54 23.9 90) (size 3.5 1.7) (drill (offset -0.9 0)) (layers "F.Cu" "F.Mask")
       (net 54 "unconnected-(U1-SWDIO-Pad43)") (pinfunction "SWDIO") (pintype "bidirectional") (tstamp 7d388ec8-b6d6-4e6f-88c3-7fb8337ee93c))
-    (model "${KICAD7_3RD_PARTY}/SamacSys_Parts.3dshapes/PICO.stp"
-      (offset (xyz 0 0 0))
+    (model "${KICAD7_3RD_PARTY}/SamacSys_Parts.3dshapes/PICO.step"
+      (offset (xyz 0 0 0.5))
       (scale (xyz 1 1 1))
       (rotate (xyz 90 180 -180))
     )
@@ -1668,8 +1668,8 @@
       (net 2 "GND") (pinfunction "K") (pintype "passive") (tstamp e78c9f13-28a7-4e98-99a2-ffe0e491b117))
     (pad "2" smd roundrect (at 1.4 0 180) (size 1.25 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2)
       (net 56 "Net-(D3-A)") (pinfunction "A") (pintype "passive") (tstamp 830a00db-40e4-4366-a27f-ba183664e3f7))
-    (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/Smon/MEGA/HTL/FTKL_GruS/MCAD/STEP/LED/1206-smd-led/LED_1206_Red.stp"
+      (offset (xyz 1.6 -0.8 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -3015,8 +3015,8 @@
       (net 2 "GND") (pinfunction "K") (pintype "passive") (tstamp ab8627e2-1045-47f8-80f1-5c633193da84))
     (pad "2" smd roundrect (at 1.4 0 180) (size 1.25 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2)
       (net 55 "Net-(D2-A)") (pinfunction "A") (pintype "passive") (tstamp e966b1b7-de30-4e11-8807-205e7f93b9d9))
-    (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/Smon/MEGA/HTL/FTKL_GruS/MCAD/STEP/LED/1206-smd-led/LED_1206_Green.stp"
+      (offset (xyz 1.6 -0.8 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
@@ -3489,8 +3489,8 @@
       (net 7 "Net-(D1-K)") (pinfunction "K") (pintype "passive") (tstamp a6b59a45-8c8e-4ef4-8f10-d94e54230000))
     (pad "2" smd roundrect (at 1.4 0 180) (size 1.25 1.75) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2)
       (net 8 "Net-(D1-A)") (pinfunction "A") (pintype "passive") (tstamp 8c5c3d7a-ee3c-496f-bd44-abd35d167e57))
-    (model "${KICAD6_3DMODEL_DIR}/LED_SMD.3dshapes/LED_1206_3216Metric.wrl"
-      (offset (xyz 0 0 0))
+    (model "C:/Users/Smon/MEGA/HTL/FTKL_GruS/MCAD/STEP/LED/1206-smd-led/LED_1206_Blue.stp"
+      (offset (xyz 1.6 -0.8 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
