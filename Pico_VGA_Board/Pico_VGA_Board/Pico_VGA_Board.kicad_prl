@@ -64,8 +64,8 @@
       39,
       40
     ],
-    "visible_layers": "ffcbc33_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "ffcbc23_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "Pico_VGA_Board.kicad_prl",
