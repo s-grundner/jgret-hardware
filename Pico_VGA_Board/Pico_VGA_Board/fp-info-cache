@@ -1,4 +1,4 @@
-21677152566743461
+21843666783730773
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6391,6 +6391,13 @@ connector JWT A3963 pinhead
 2
 2
 Connector
+Joint-Tech_C5080WR-04P_1x04_P5.08mm_Vertical
+C5080 SERIES 90° Wafer, (https://datasheet.lcsc.com/lcsc/1912261836_HR-Joint-Tech-Elec-C5080WR-04P_C477015.pdf)
+connector side-entry ATA PATA IDE 5.25 inch floppy drive power
+0
+6
+5
+Connector
 NS-Tech_Grove_1x04_P2mm_Vertical
 https://statics3.seeedstudio.com/images/opl/datasheet/3470130P1.pdf
 Grove-1x04
@@ -9736,6 +9743,13 @@ DSUB-62-HD_Male_Vertical_P2.41x1.98mm_MountingHoles
 0
 64
 63
+Connector_FFC-FPC
+FPC_12
+
+
+0
+12
+12
 Connector_FFC-FPC
 Hirose_FH12-6S-0.5SH_1x06-1MP_P0.50mm_Horizontal
 Hirose FH12, FFC/FPC connector, FH12-6S-0.5SH, 6 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
@@ -40768,6 +40782,13 @@ Through hole angled socket strip THT 1x05 2.54mm single row
 5
 5
 Connector_PinSocket_2.54mm
+PinSocket_1x05_P2.54mm_Horizontal_SMD
+
+
+0
+5
+5
+Connector_PinSocket_2.54mm
 PinSocket_1x05_P2.54mm_Vertical
 Through hole straight socket strip, 1x05, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
 Through hole socket strip THT 1x05 2.54mm single row
@@ -46921,6 +46942,13 @@ USB Type-C Plug Edge Mount
 24
 23
 Connector_USB
+USB_C_Plug_ShenzhenJingTuoJin_918-118A2021Y40002_Vertical
+Low-profile vertical USB 2.0 Type C Plug Shenzhen Jing Tuo Jin Electronics Co 918-118A2021Y40002 ( https://datasheet.lcsc.com/lcsc/1912111437_Jing-Extension-of-the-Electronic-Co--918-118A2021Y40002_C399939.pdf ) also compatible with Korean HRO Parts Elec TYPE-C-31-G-06
+type-c usb2
+0
+18
+17
+Connector_USB
 USB_C_Receptacle_Amphenol_12401548E4-2A
 USB TYPE C, RA RCPT PCB, Hybrid, https://www.amphenolcanada.com/StockAvailabilityPrice.aspx?From=&PartNum=12401548E4%7e2A
 USB C Type-C Receptacle Hybrid
@@ -46959,6 +46987,13 @@ Connector_USB
 USB_C_Receptacle_G-Switch_GT-USB-7010ASV
 USB Type C, right-angle, SMT, https://datasheet.lcsc.com/lcsc/2204071530_G-Switch-GT-USB-7010ASV_C2988369.pdf
 USB C Type-C Receptacle SMD
+0
+20
+17
+Connector_USB
+USB_C_Receptacle_G-Switch_GT-USB-7051x
+USB Type C, vertical, SMT, https://datasheet.lcsc.com/lcsc/2108072030_G-Switch-GT-USB-7051A_C2843970.pdf
+USB C Type-C Receptacle SMD GT-USB-7051A GT-USB-7051B
 0
 20
 17
@@ -49510,6 +49545,13 @@ connector Wuerth WR-WTB vertical
 0
 10
 10
+Connector_ZIF
+OK-24F024-04
+
+
+0
+24
+24
 Converter_ACDC
 Converter_ACDC_CUI_PBO-3-Sxx_THT_Vertical
 ACDC-Converter, 3W, CUI PBO-3, THT https://www.cui.com/product/resource/pbo-3.pdf
@@ -50009,11 +50051,11 @@ traco dcdc tht 15w
 9
 Converter_DCDC
 Converter_DCDC_TRACO_THN30-xxxx_THT
-DCDC-Converter TRACO THN 10 to 30W, Single or dual Output, (https://www.tracopower.com/sites/default/files/products/datasheets/thn15wi_datasheet.pdf)
+DCDC-Converter TRACO THN 10 to 30W, Single or dual Output, (https://www.tracopower.com/sites/default/files/products/datasheets/thn30_datasheet.pdf)
 DCDC-Converter TRACO THN30 Generic
 0
 6
-5
+6
 Converter_DCDC
 Converter_DCDC_TRACO_TMR-1-xxxx_Dual_THT
 DCDC-Converter, TRACO, TMR 1-xxxx, Dual output, Rev. March 21.2016
@@ -50154,6 +50196,20 @@ DCDC-Converter XP_POWER JTE06 Dual
 0
 8
 8
+Converter_DCDC
+Converter_DCDC_muRata_MEJ1DxxxxSC_THT
+muRata MEJ1DxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 1W, dual output, SIP package style, https://power.murata.com/data/power/ncl/kdc_mej1.pdf
+muRata MEJ1D DCDC-Converter
+0
+5
+5
+Converter_DCDC
+Converter_DCDC_muRata_MEJ1SxxxxSC_THT
+muRata MEJ1SxxxxSC, 19.5x9.8x12.5mm, 5.2kVDC Isolated, 1W, single output, SIP package style, https://power.murata.com/data/power/ncl/kdc_mej1.pdf
+muRata MEJ1S DCDC-Converter
+0
+4
+4
 Crystal
 Crystal_AT310_D3.0mm_L10.0mm_Horizontal
 Crystal THT AT310 10.0mm-10.5mm length 3.0mm diameter http://www.cinetech.com.tw/upload/2011/04/20110401165201.pdf
@@ -51953,6 +52009,13 @@ TVS protection diodes
 0
 2
 2
+Diode_SMD
+Vishay_SMPA
+Diode SMPA (DO-221BC), https://www.vishay.com/docs/87659/v8pa10.pdf
+Diode SMPA (DO-221BC)
+0
+2
+2
 Diode_THT
 D_5KPW_P7.62mm_Vertical_AnodeUp
 Diode, 5KPW series, Axial, Vertical, pin pitch=7.62mm, , length*diameter=9*8mm^2, , http://www.diodes.com/_files/packages/8686949.gif
@@ -52877,6 +52940,20 @@ ERM19264 Graphics Display 192x64
 0
 20
 20
+Display
+ER_TFT128-1
+
+
+0
+12
+12
+Display
+ER_TFT128-2
+
+
+0
+24
+24
 Display
 HDSM-441B_HDSM-443B
 2 Digit 7 segemnt blue LED, right hand decimal, https://docs.broadcom.com/docs/AV02-1589EN
@@ -55671,6 +55748,13 @@ Inductor xal
 2
 2
 Inductor_SMD
+L_Coilcraft_XFL2010
+Coilcraft XFL2010, Shielded power inductor, 0808, 1.9x2.0mm, https://www.coilcraft.com/getmedia/50382b97-998f-4b75-b5ee-4a93b0ac4411/xfl2010.pdf
+miniature
+0
+2
+2
+Inductor_SMD
 L_Coilcraft_XxL4020
 L_Coilcraft_XxL4020 https://www.coilcraft.com/pdfs/xfl4020.pdf
 L Coilcraft XxL4020
@@ -57632,7 +57716,7 @@ chokes schaffner tht
 4
 Inductor_THT
 Choke_Schaffner_RN112-04-17.7x17.1mm
-Current-compensated Chokes, Schaffner, RN112-04, 17.7mmx17.1mm https://www.schaffner.com/products/download/product/datasheet/rn-series-common-mode-chokes-new/
+Current-compensated Chokes, Schaffner, RN112-04, 17.7mmx17.1mm https://www.schaffner.com/fileadmin/user_upload/pim/products/datasheets/RN_series.pdf
 chokes schaffner tht
 0
 4
@@ -59492,6 +59576,13 @@ THT
 0
 4
 2
+JLC
+JLC_Tooling
+
+
+0
+0
+0
 Jumper
 SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
 SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
@@ -60976,6 +61067,13 @@ Pololu Breakout
 0
 16
 16
+Module
+RPi_Pico_SMD_TH
+Through hole straight pin header, 2x20, 2.54mm pitch, double rows
+Through hole pin header THT 2x20 2.54mm double row
+0
+86
+43
 Module
 Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles
 Raspberry Pi Zero using through hole straight pin socket, 2x20, 2.54mm pitch, https://www.raspberrypi.org/documentation/hardware/raspberrypi/mechanical/rpi_MECH_Zero_1p2.pdf
@@ -64476,6 +64574,237 @@ DIL DIP PDIP 2.54mm 7.62mm 300mil
 0
 4
 4
+PCM_arduino-library
+Arduino_101_Shield
+https://docs.arduino.cc/retired/boards/arduino-101-619
+
+0
+38
+38
+PCM_arduino-library
+Arduino_Due_Shield
+https://docs.arduino.cc/hardware/due
+
+0
+92
+91
+PCM_arduino-library
+Arduino_Giga_R1_WiFi_Shield
+https://docs.arduino.cc/hardware/giga-r1-wifi
+
+0
+92
+91
+PCM_arduino-library
+Arduino_Leonardo_Shield
+https://docs.arduino.cc/hardware/leonardo
+
+0
+38
+37
+PCM_arduino-library
+Arduino_M0_Pro_Shield
+https://docs.arduino.cc/retired/boards/arduino-m0-pro
+
+0
+38
+37
+PCM_arduino-library
+Arduino_MKR_1000_WiFi_Socket
+https://docs.arduino.cc/hardware/mkr-1000-wifi
+
+0
+28
+28
+PCM_arduino-library
+Arduino_MKR_FOX_1200_Socket
+https://docs.arduino.cc/hardware/mkr-fox-1200
+
+0
+28
+28
+PCM_arduino-library
+Arduino_MKR_Vidor_4000_Socket
+https://docs.arduino.cc/hardware/mkr-vidor-4000
+
+0
+28
+28
+PCM_arduino-library
+Arduino_MKR_WiFi_1010_Socket
+https://docs.arduino.cc/hardware/mkr-wifi-1010
+
+0
+28
+28
+PCM_arduino-library
+Arduino_MKR_Zero_Socket
+https://docs.arduino.cc/hardware/mkr-zero
+
+0
+28
+28
+PCM_arduino-library
+Arduino_Mega2560_R3_Shield
+https://docs.arduino.cc/hardware/mega-2560
+
+0
+92
+91
+PCM_arduino-library
+Arduino_Micro_Socket
+https://docs.arduino.cc/hardware/micro
+
+0
+34
+32
+PCM_arduino-library
+Arduino_Mini_Socket
+https://docs.arduino.cc/retired/boards/arduino-mini-05
+
+0
+35
+35
+PCM_arduino-library
+Arduino_Mini_Socket_NoSPH
+https://docs.arduino.cc/retired/boards/arduino-mini-05
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_33_IoT_Socket
+https://docs.arduino.cc/hardware/nano-33-iot
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_33_IoT_Tile
+https://docs.arduino.cc/hardware/nano-33-iot
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_Every_Socket
+https://docs.arduino.cc/hardware/nano-every
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_Every_Tile
+https://docs.arduino.cc/hardware/nano-every
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nano_Socket
+https://docs.arduino.cc/hardware/nano
+
+0
+30
+30
+PCM_arduino-library
+Arduino_Nicla_Vision_Socket
+https://docs.arduino.cc/hardware/nicla-vision
+
+0
+19
+18
+PCM_arduino-library
+Arduino_Nicla_Vision_Tile
+https://docs.arduino.cc/hardware/nicla-vision
+
+0
+19
+18
+PCM_arduino-library
+Arduino_Nicla_Voice_Socket
+https://docs.arduino.cc/hardware/nicla-voice
+
+0
+19
+17
+PCM_arduino-library
+Arduino_Nicla_Voice_Tile
+https://docs.arduino.cc/hardware/nicla-voice
+
+0
+19
+17
+PCM_arduino-library
+Arduino_Pro_Mini_Socket
+https://docs.arduino.cc/retired/boards/arduino-pro-mini
+
+0
+34
+34
+PCM_arduino-library
+Arduino_Pro_Mini_Socket_NoSPH
+https://docs.arduino.cc/retired/boards/arduino-pro-mini
+
+0
+28
+28
+PCM_arduino-library
+Arduino_Uno_R2_Shield
+https://startingelectronics.org/articles/arduino/uno-r3-r2-differences/
+
+0
+34
+34
+PCM_arduino-library
+Arduino_Uno_R3_Shield
+https://docs.arduino.cc/hardware/uno-rev3
+
+0
+38
+37
+PCM_arduino-library
+Arduino_Uno_R4_Minima_Shield
+https://docs.arduino.cc/hardware/uno-r4-minima
+
+0
+38
+38
+PCM_arduino-library
+Arduino_Uno_R4_WiFi_Shield
+https://docs.arduino.cc/hardware/uno-r4-wifi
+
+0
+47
+46
+PCM_arduino-library
+Arduino_Zero_Shield
+https://docs.arduino.cc/hardware/zero
+
+0
+38
+38
+PCM_arduino-library
+Clone_Mega2560_Pro_Socket
+https://docs.arduino.cc/hardware/mega-2560
+
+0
+86
+86
+PCM_arduino-library
+Clone_Pro_Mini_Socket
+https://www.addicore.com/Pro-Mini-p/ad249.htm
+
+0
+35
+35
+PCM_arduino-library
+Clone_Pro_Mini_Socket_NoSPH
+https://www.addicore.com/Pro-Mini-p/ad249.htm
+
+0
+29
+29
 Package_BGA
 Analog_BGA-28_4.0x6.25mm_Layout4x7_P0.8mm_Ball0.45mm_Pad0.4
 Analog BGA-28 4.0mm x 6.25mm package, pitch 0.4mm pad, based on https://www.analog.com/media/en/technical-documentation/data-sheets/8063fa.pdf
@@ -69881,6 +70210,13 @@ Texas RSE0010 UQFN NoLead
 10
 10
 Package_DFN_QFN
+Texas_VQFN-HR-20_3x2.5mm_P0.5mm_RQQ0011A
+Texas  VQFN-HR, 11 Pin, https://www.ti.com/lit/ml/mpqf579/mpqf579.pdf
+RQQ0011A
+0
+15
+11
+Package_DFN_QFN
 Texas_VQFN-RHL-20
 http://www.ti.com/lit/ds/symlink/bq51050b.pdf
 RHL0020A
@@ -72786,6 +73122,13 @@ NXP LGA NoLead
 8
 8
 Package_LGA
+Rohm_MLGA010V020A_LGA-10_2x2mm_P0.45mm_LayoutBorder_3x2y
+Rohm  LGA, 10 Pin (https://fscdn.rohm.com/en/techdata_basic/ic/package/Jisso_MLGA010V020A-1-2_Rev005s_E2(MSL3).pdf)
+Rohm LGA NoLead
+0
+10
+10
+Package_LGA
 ST_HLGA-10_2.5x2.5mm_P0.6mm_LayoutBorder3x2y
 ST  HLGA, 10 Pin (https://www.st.com/resource/en/datasheet/lps25hb.pdf#page=46), generated with kicad-footprint-generator ipc_noLead_generator.py
 ST HLGA NoLead
@@ -74830,6 +75173,13 @@ SOP SO
 24
 24
 Package_SO
+SOP65P210X110-6N
+NC7WZ17P6X
+Integrated Circuit
+0
+6
+6
+Package_SO
 SSO-4_6.7x5.1mm_P2.54mm_Clearance8mm
 4-Lead Plastic Stretched Small Outline (SSO/Stretched SO), see https://www.vishay.com/docs/84299/vor1142b4.pdf
 SSO Stretched SO SOIC 2.54
@@ -75908,6 +76258,13 @@ PowerDI 0.65
 13
 5
 Package_SON
+Diodes_PowerDI3333-8_UXC_3.3x3.3mm_P0.65mm
+Diodes Incorporated PowerDI3333-8 UXC, 3.05x3.05x0.8mm Body, https://www.diodes.com/assets/Package-Files/PowerDI3333-8%20(Type%20UXC).pdf
+PowerDI 0.65
+0
+6
+6
+Package_SON
 Fairchild_DualPower33-6_3x3mm
 Fairchild Power33 MOSFET package, 3x3mm (see https://www.fairchildsemi.com/datasheets/FD/FDMC8032L.pdf)
 mosfet
@@ -76180,6 +76537,13 @@ USON-20 2x4mm Pitch 0.4mm
 0
 20
 20
+Package_SON
+VSON-8_1.5x2mm_P0.5mm
+VSON, 8 Pin (http://www.ti.com/lit/ds/symlink/tps62840.pdf#page=37), generated with kicad-footprint-generator ipc_noLead_generator.py
+VSON NoLead
+0
+8
+8
 Package_SON
 VSON-8_3.3x3.3mm_P0.65mm_NexFET
 8-Lead Plastic Dual Flat, No Lead Package (MF) - 3.3x3.3x1 mm Body [VSON] http://www.ti.com/lit/ds/symlink/csd87334q3d.pdf
@@ -79071,27 +79435,6 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
-Pico_W
-Crystal_SMD_HC49-US
-SMD Crystal HC-49-SD http://cdn-reichelt.de/documents/datenblatt/B400/xxx-HC49-SMD.pdf, 11.4x4.7mm^2 package
-SMD SMT crystal
-0
-2
-2
-Pico_W
-RP2040-QFN-56
-QFN, 56 Pin (http://www.cypress.com/file/416486/download#page=40), generated with kicad-footprint-generator ipc_dfn_qfn_generator.py
-QFN DFN_QFN
-0
-70
-57
-Pico_W
-RPi_Pico_SMD_TH
-Through hole straight pin header, 2x20, 2.54mm pitch, double rows
-Through hole pin header THT 2x20 2.54mm double row
-0
-86
-43
 Potentiometer_SMD
 Potentiometer_ACP_CA6-VSMD_Vertical
 Potentiometer, vertical, ACP CA6-VSMD, http://www.acptechnologies.com/wp-content/uploads/2017/06/01-ACP-CA6.pdf
@@ -80062,6 +80405,13 @@ RF_Antenna
 Coilcraft_MA5532-AE_RFID
 RFID Transponder Coil
 antenna rfid coilcraft
+0
+2
+2
+RF_Antenna
+Custom_RFID_1
+
+
 0
 2
 2
@@ -81319,8 +81669,8 @@ Kemet EC2 signal relay DPDT double dual coil latching through hole THT
 10
 10
 Relay_THT
-Relay_DPDT_Omron_G2RL
-Omron Relay DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Relay_DPDT_Omron_G2RL-2
+Omron Relay, DPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
 Omron Relay DPDT
 0
 8
@@ -81392,6 +81742,13 @@ Relay_THT
 Relay_DPST_Fujitsu_FTR-F1A
 https://www.fujitsu.com/downloads/MICRO/fcai/relays/ftr-f1.pdf
 relay dpst fujitsu tht
+0
+6
+6
+Relay_THT
+Relay_DPST_Omron_G2RL-2A
+Omron Relay, DPST, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay DPST
 0
 6
 6
@@ -81485,6 +81842,20 @@ Relay SPDT Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/en-g
 Relay SPDT Omron Serie G5Q
 0
 5
+5
+Relay_THT
+Relay_SPDT_Omron_G2RL-1
+Omron Relay, SPDT, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay SPDT
+0
+5
+5
+Relay_THT
+Relay_SPDT_Omron_G2RL-1-E
+Omron Relay, SPDT, High Capacity, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay SPDT High Capacity
+0
+8
 5
 Relay_THT
 Relay_SPDT_Omron_G5V-1
@@ -81604,6 +81975,20 @@ Relay SPST-NO Omron Serie G5Q, http://omronfs.omron.com/en_US/ecb/products/pdf/e
 Relay SPST-NO Omron Serie G5Q
 0
 4
+4
+Relay_THT
+Relay_SPST_Omron_G2RL-1A
+Omron Relay, SPST, https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay SPST
+0
+4
+4
+Relay_THT
+Relay_SPST_Omron_G2RL-1A-E
+Omron Relay, SPST, High Capacity,  https://omronfs.omron.com/en_US/ecb/products/pdf/en-g2rl.pdf
+Omron Relay SPST High Capacity
+0
+6
 4
 Relay_THT
 Relay_SPST_Panasonic_JW1_FormA
@@ -83040,27 +83425,97 @@ rotary encoder
 0
 7
 6
-Samacsys
-5033981892
-5033981892-1
+SamacSys_Parts
+101181920002LF
+10118192-0002LF-1
+Connector
+0
+11
+11
+SamacSys_Parts
+503398-1892
+503398-1892
 Connector
 0
 14
 14
-Samacsys
+SamacSys_Parts
+532540470
+53254-0470-3
+Connector
+0
+4
+4
+SamacSys_Parts
+EC11B15242AE
+EC11B15242AE
+Switch
+0
+7
+7
+SamacSys_Parts
+ESP32WROOM32EH4
+ESP32-WROOM-32E-H4-1
+Integrated Circuit
+0
+47
+47
+SamacSys_Parts
 NE555DR
 D (R-PDSO-G8)
 Integrated Circuit
 0
 8
 8
-Samacsys
+SamacSys_Parts
+PICO
+PICO-2
+Connector
+0
+49
+49
+SamacSys_Parts
+QFN50P500X500X100-33N-D
+RHB0032E
+Integrated Circuit
+0
+33
+33
+SamacSys_Parts
+SHDR4W50P0X200_1X4_1000X365X550P
+53253-0470
+Connector
+0
+4
+4
+SamacSys_Parts
+SJ3523SMTTR
+SJ-3523-SMT-TR-1
+Connector
+0
+3
+3
+SamacSys_Parts
 SOP65P210X110-6N
 NC7WZ17P6X
 Integrated Circuit
 0
 6
 6
+SamacSys_Parts
+SOP65P640X110-16N
+TSSOP16-1
+Integrated Circuit
+0
+16
+16
+SamacSys_Parts
+U254051T4BHJ25F2S
+U254-051T-4BHJ25-F2S-2
+Connector
+0
+9
+9
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -83629,6 +84084,13 @@ https://www.farnell.com/cad/316865.pdf?_ga=2.37208032.177107060.1530611323-24901
 48
 48
 Symbol
+Bug_Logo
+
+
+0
+0
+0
+Symbol
 CE-Logo_8.5x6mm_SilkScreen
 CE marking
 Logo CE certification
@@ -83758,6 +84220,20 @@ Symbol
 FCC-Logo_48.3x40mm_SilkScreen
 FCC marking
 Logo FCC certification
+0
+0
+0
+Symbol
+GitHubQR_Logo
+
+
+0
+0
+0
+Symbol
+Gyro_Logo
+
+
 0
 0
 0
@@ -84294,6 +84770,27 @@ Logo Polarity Center Positive
 0
 0
 Symbol
+RFID-Gwent
+
+
+0
+0
+0
+Symbol
+RFID-Gwent_M
+
+
+0
+0
+0
+Symbol
+RasPi
+
+
+0
+0
+0
+Symbol
 RoHS-Logo_6mm_SilkScreen
 Restriction of Hazardous Substances Directive Logo
 Logo RoHS
@@ -84591,6 +85088,27 @@ Symbol
 UKCA-Logo_40x40mm_SilkScreen
 UKCA marking
 Logo UKCA marking
+0
+0
+0
+Symbol
+USB_Logo
+
+
+0
+0
+0
+Symbol
+USB_Logo_1mm
+
+
+0
+0
+0
+Symbol
+VGA
+
+
 0
 0
 0
