@@ -1,0 +1,20 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 9904fd53-d962-4a62-99b5-60b9ac5fa386)
+
+  (paper "A4")
+
+  (title_block
+    (title "Ledstrip")
+    (date "13.08.2023")
+    (rev "1")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
