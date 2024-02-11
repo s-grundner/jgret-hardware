@@ -4021,11 +4021,11 @@
     (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "G***" (at 0 0) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
-      (tstamp 29587250-4bb5-42f8-8ced-d1b152452ac5)
+      (tstamp 890a4cc8-3c79-4c7e-822d-3a1dfff65588)
     )
     (fp_text value "LOGO" (at 0.75 0) (layer "F.SilkS") hide
         (effects (font (size 1.5 1.5) (thickness 0.3)))
-      (tstamp 65713c4b-1e0d-4a70-8b33-0af473d3c8d2)
+      (tstamp 64c9e0b0-5fc7-4b53-ae0c-0f5642e50968)
     )
     (fp_poly
       (pts
@@ -4107,7 +4107,7 @@
         (xy 0.041992 -0.898472)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 10c491ae-15ef-4b2a-86bc-9585e7e55407))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 2f520a2b-da71-42fb-b2a7-fbcd0cbfc65b))
     (fp_poly
       (pts
         (xy 0.497131 -0.430897)
@@ -4193,7 +4193,7 @@
         (xy 0.460007 -0.439588)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp c2948334-b14d-4914-8558-5d280484e621))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp ba35807d-9f12-45a4-aea8-92b5b51bdc0e))
     (fp_poly
       (pts
         (xy 0.658018 -0.870906)
@@ -4302,7 +4302,7 @@
         (xy 0.623682 -0.872913)
       )
 
-      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp e3dda5dc-5647-4a0d-a6a0-8ebbc2d98e98))
+      (stroke (width 0) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 47beaeb6-4a66-46b2-bdd4-f7cce0c9c69c))
   )
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")

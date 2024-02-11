@@ -2727,10 +2727,10 @@
     (property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" (at 149.86 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid dd5ce971-ebda-466e-af22-394da7efdaf7))
-    (pin "1" (uuid dd5ce971-ebda-466e-af22-394da7efdaf7))
-    (pin "2" (uuid bcc5c140-996b-4de9-bcfb-c7362fa04cad))
-    (pin "2" (uuid bcc5c140-996b-4de9-bcfb-c7362fa04cad))
+    (pin "1" (uuid dd5ce971-ebda-466e-af22-394da7efdaf8))
+    (pin "1" (uuid dd5ce971-ebda-466e-af22-394da7efdaf8))
+    (pin "2" (uuid bcc5c140-996b-4de9-bcfb-c7362fa04cae))
+    (pin "2" (uuid bcc5c140-996b-4de9-bcfb-c7362fa04cae))
     (instances
       (project "Pico_VGA_Board"
         (path "/3ff61bf8-b74f-4e5e-8960-de32e51f4d8f"
@@ -3872,7 +3872,7 @@
     (property "Datasheet" "~" (at 257.81 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC Part #" " C4991872 " (at 257.81 140.97 0)
+    (property "LCSC Part #" "C4991872 " (at 257.81 140.97 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "R" (uuid 21943522-016e-4008-ae4a-6f360426437c))
