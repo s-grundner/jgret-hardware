@@ -1,7 +1,7 @@
 {
   "board": {
-    "active_layer": 37,
-    "active_layer_preset": "All Layers",
+    "active_layer": 31,
+    "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
@@ -64,8 +64,13 @@
       39,
       40
     ],
+<<<<<<< HEAD
     "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
+=======
+    "visible_layers": "ffcbc23_ffffffff",
+    "zone_display_mode": 1
+>>>>>>> 22d5c96d8e7d800d3851ab2b8bc9e04246833aef
   },
   "meta": {
     "filename": "Pico_VGA_Board.kicad_prl",
