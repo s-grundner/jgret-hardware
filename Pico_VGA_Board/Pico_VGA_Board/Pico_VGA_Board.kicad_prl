@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 31,
-    "active_layer_preset": "",
-    "auto_track_width": false,
+    "active_layer": 0,
+    "active_layer_preset": "All Layers",
+    "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -19,7 +19,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -64,13 +64,8 @@
       39,
       40
     ],
-<<<<<<< HEAD
     "visible_layers": "fffffff_ffffffff",
     "zone_display_mode": 0
-=======
-    "visible_layers": "ffcbc23_ffffffff",
-    "zone_display_mode": 1
->>>>>>> 22d5c96d8e7d800d3851ab2b8bc9e04246833aef
   },
   "meta": {
     "filename": "Pico_VGA_Board.kicad_prl",
