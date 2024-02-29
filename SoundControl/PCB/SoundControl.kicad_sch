@@ -753,6 +753,8 @@
     (uuid c0bb8463-1d7d-4369-99d5-f5fa1948ccba)
   )
 
+  (no_connect (at 285.75 35.56) (uuid e31224c7-2c83-4483-9f37-1b411bee3ecb))
+
   (wire (pts (xy 207.01 64.77) (xy 210.82 64.77))
     (stroke (width 0) (type default))
     (uuid 032b5d8f-b191-482a-b430-c4e775a93e61)
@@ -1101,6 +1103,10 @@
     (stroke (width 0) (type default))
     (uuid a3415d54-ddd6-49a9-969e-36940883fc08)
   )
+  (wire (pts (xy 270.51 33.02) (xy 270.51 41.91))
+    (stroke (width 0) (type default))
+    (uuid a4a56350-b1d4-4abc-aa8f-1b4e19b0b644)
+  )
   (wire (pts (xy 207.01 52.07) (xy 210.82 52.07))
     (stroke (width 0) (type default))
     (uuid a8cecae7-7f10-41f1-9c2c-7c974e2f3c26)
@@ -1116,6 +1122,10 @@
   (wire (pts (xy 118.11 110.49) (xy 121.92 110.49))
     (stroke (width 0) (type default))
     (uuid b00d474e-80bd-4509-9c6e-604f8cc197ac)
+  )
+  (wire (pts (xy 246.38 41.91) (xy 270.51 41.91))
+    (stroke (width 0) (type default))
+    (uuid b26ae4a6-cd3a-47cb-bac1-5d8b6fa8ce05)
   )
   (wire (pts (xy 82.55 110.49) (xy 78.74 110.49))
     (stroke (width 0) (type default))
@@ -1590,7 +1600,7 @@
   )
 
   (symbol (lib_id "Device:R") (at 71.12 119.38 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 0372e9e3-6d10-43bc-858d-7d3c7c15ea96)
     (property "Reference" "R3" (at 73.66 118.745 0)
       (effects (font (size 1.27 1.27)) (justify left))
@@ -1604,8 +1614,8 @@
     (property "Datasheet" "~" (at 71.12 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 3b619259-5d34-40f4-8bd4-a9c8eb54078c))
-    (pin "2" (uuid 07b06d05-17e5-4c42-9103-8f51dff15776))
+    (pin "1" (uuid b9415c53-45cb-44f4-a8a1-5b3d441a217c))
+    (pin "2" (uuid fa487d7d-63e7-49b0-a2a2-0656567d65b3))
     (instances
       (project "SoundControl"
         (path "/06c37cb1-c02e-4807-841e-a1362f60cdfe"
@@ -3266,6 +3276,31 @@
       (project "SoundControl"
         (path "/06c37cb1-c02e-4807-841e-a1362f60cdfe"
           (reference "R8") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:+3V3") (at 270.51 33.02 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid ee7428fe-3c57-4757-b1b4-8d69e06d4169)
+    (property "Reference" "#PWR033" (at 270.51 36.83 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "+3V3" (at 270.51 29.21 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "" (at 270.51 33.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 270.51 33.02 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 2364e681-0a91-467a-81b2-490fa2e93e52))
+    (instances
+      (project "SoundControl"
+        (path "/06c37cb1-c02e-4807-841e-a1362f60cdfe"
+          (reference "#PWR033") (unit 1)
         )
       )
     )

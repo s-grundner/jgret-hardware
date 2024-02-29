@@ -1,0 +1,3 @@
+/mnt/d/hardware/SoundControl/Firmware/build/pioasm/CMakeFiles/pioasm.dir
+/mnt/d/hardware/SoundControl/Firmware/build/pioasm/CMakeFiles/edit_cache.dir
+/mnt/d/hardware/SoundControl/Firmware/build/pioasm/CMakeFiles/rebuild_cache.dir

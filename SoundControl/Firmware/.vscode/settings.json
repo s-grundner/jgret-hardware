@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "gpio.h": "c",
+        "pico.h": "c",
+        "cyw43_arch.h": "c",
+        "adc.h": "c"
+    }
+}
