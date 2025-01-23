@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Graphics")(type "KiCad")(uri "${KIPRJMOD}/Graphics.kicad_sym")(options "")(descr ""))
+  (lib (name "Devices")(type "KiCad")(uri "${KIPRJMOD}/Devices.kicad_sym")(options "")(descr ""))
+  (lib (name "lmv331")(type "KiCad")(uri "${KIPRJMOD}/lmv331.kicad_sym")(options "")(descr ""))
+)
